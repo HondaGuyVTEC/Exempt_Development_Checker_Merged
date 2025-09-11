@@ -26,3 +26,5 @@ cd Exempt_development_frontend
 npm install
 # or
 yarn install
+## Start project
+npm run dev
