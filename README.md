@@ -1,6 +1,6 @@
 # Exempt Development Frontend
+![Banner](screencapture-localhost-5173-custom-search1-2025-09-11-15_43_30.png)  
 
-![Banner](screencapture-localhost-5173-2025-09-11-15_42_49.png)  
 
 Frontend for the **Exempt Development** project.  
 Lightweight interface for managing and testing exempt development workflows.  
@@ -28,3 +28,6 @@ npm install
 yarn install
 ## Start project
 npm run dev
+# User Interface
+
+![Banner](screencapture-localhost-5173-2025-09-11-15_42_49.png)  
