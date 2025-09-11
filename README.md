@@ -14,6 +14,8 @@ Follow these steps to set up the project locally.
 - Node.js (>= 18)
 - npm or yarn
 
+## Firs setup backend to setup follow this process 
+[![Backend Repository](https://img.shields.io/badge/Backend-Repository-blue?logo=github)](https://github.com/haseebah2003-blip/Exempt_development_backend.git)
 ### Installation
 ```bash
 # Clone the repository
