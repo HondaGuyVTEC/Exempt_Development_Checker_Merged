@@ -1,0 +1,201 @@
+[
+    {
+        "inclusion": false,
+        "false_positive": false,
+        "length_m": 4.58,
+        "width_m": 7.17,
+        "height_m": 3.21,
+        "setback_m": 1.0,
+        "floor_area_m2": 32.84
+    },
+    {
+        "inclusion": false,
+        "false_positive": true,
+        "length_m": 6.7,
+        "width_m": 5.31,
+        "height_m": 6.72,
+        "setback_m": 2.5,
+        "floor_area_m2": 35.58
+    },
+    {
+        "inclusion": true,
+        "false_positive": false,
+        "length_m": 3.72,
+        "width_m": 8.61,
+        "height_m": 7.11,
+        "setback_m": 5.0,
+        "floor_area_m2": 32.03
+    },
+    {
+        "inclusion": false,
+        "false_positive": false,
+        "length_m": 7.16,
+        "width_m": 3.54,
+        "height_m": 7.83,
+        "setback_m": 1.0,
+        "floor_area_m2": 25.35
+    },
+    {
+        "inclusion": true,
+        "false_positive": false,
+        "length_m": 4.97,
+        "width_m": 3.7,
+        "height_m": 7.99,
+        "setback_m": 2.5,
+        "floor_area_m2": 18.39
+    },
+    {
+        "inclusion": true,
+        "false_positive": true,
+        "length_m": 5.39,
+        "width_m": 6.96,
+        "height_m": 3.85,
+        "setback_m": 2.5,
+        "floor_area_m2": 37.51
+    },
+    {
+        "inclusion": true,
+        "false_positive": true,
+        "length_m": 3.61,
+        "width_m": 6.13,
+        "height_m": 6.31,
+        "setback_m": 0.9,
+        "floor_area_m2": 22.13
+    },
+    {
+        "inclusion": false,
+        "false_positive": true,
+        "length_m": 5.62,
+        "width_m": 8.74,
+        "height_m": 6.94,
+        "setback_m": 1.0,
+        "floor_area_m2": 49.12
+    },
+    {
+        "inclusion": true,
+        "false_positive": true,
+        "length_m": 6.32,
+        "width_m": 4.25,
+        "height_m": 3.28,
+        "setback_m": 2.5,
+        "floor_area_m2": 26.86
+    },
+    {
+        "inclusion": false,
+        "false_positive": true,
+        "length_m": 5.1,
+        "width_m": 4.42,
+        "height_m": 7.84,
+        "setback_m": 0.9,
+        "floor_area_m2": 22.54
+    },
+    {
+        "inclusion": false,
+        "false_positive": true,
+        "length_m": 5.61,
+        "width_m": 5.18,
+        "height_m": 4.17,
+        "setback_m": 5.0,
+        "floor_area_m2": 29.06
+    },
+    {
+        "inclusion": true,
+        "false_positive": true,
+        "length_m": 6.49,
+        "width_m": 3.52,
+        "height_m": 8.09,
+        "setback_m": 2.5,
+        "floor_area_m2": 22.84
+    },
+    {
+        "inclusion": false,
+        "false_positive": false,
+        "length_m": 3.5,
+        "width_m": 7.81,
+        "height_m": 8.73,
+        "setback_m": 5.0,
+        "floor_area_m2": 27.33
+    },
+    {
+        "inclusion": false,
+        "false_positive": true,
+        "length_m": 3.12,
+        "width_m": 7.75,
+        "height_m": 6.95,
+        "setback_m": 5.0,
+        "floor_area_m2": 24.18
+    },
+    {
+        "inclusion": false,
+        "false_positive": true,
+        "length_m": 5.66,
+        "width_m": 7.6,
+        "height_m": 5.78,
+        "setback_m": 2.5,
+        "floor_area_m2": 43.02
+    },
+    {
+        "inclusion": true,
+        "false_positive": true,
+        "length_m": 7.13,
+        "width_m": 7.83,
+        "height_m": 8.31,
+        "setback_m": 5.0,
+        "floor_area_m2": 55.83
+    },
+    {
+        "inclusion": true,
+        "false_positive": false,
+        "length_m": 5.35,
+        "width_m": 4.15,
+        "height_m": 5.91,
+        "setback_m": 5.0,
+        "floor_area_m2": 22.2
+    },
+    {
+        "inclusion": false,
+        "false_positive": true,
+        "length_m": 7.88,
+        "width_m": 5.76,
+        "height_m": 6.71,
+        "setback_m": 2.5,
+        "floor_area_m2": 45.39
+    },
+    {
+        "inclusion": false,
+        "false_positive": false,
+        "length_m": 6.25,
+        "width_m": 8.77,
+        "height_m": 6.09,
+        "setback_m": 2.5,
+        "floor_area_m2": 54.81
+    },
+    {
+        "inclusion": true,
+        "false_positive": false,
+        "length_m": 3.28,
+        "width_m": 8.28,
+        "height_m": 4.1,
+        "setback_m": 2.5,
+        "floor_area_m2": 27.16
+    },
+    {
+        "inclusion": true,
+        "false_positive": false,
+        "length_m": 7.1,
+        "width_m": 7.1,
+        "height_m": 3,
+        "setback_m": 4.5,
+        "floor_area_m2": 27.16
+    },
+    {
+        "inclusion": true,
+        "false_positive": false,
+        "length_m": 7.0,
+        "width_m": 7.0,
+        "height_m": 2.7,
+        "setback_m": 5.5,
+        "floor_area_m2": 27.16
+    }
+
+]
