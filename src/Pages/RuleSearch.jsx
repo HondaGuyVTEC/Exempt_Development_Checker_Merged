@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import rulesData from "../assets/data/rules.json";
 
 function ComplianceCheck() {
@@ -27,7 +27,7 @@ function ComplianceCheck() {
     setFloorArea(length * width);
   }, [length, width]);
 
-  // Load requirements when type+zone selected
+  // Load requirements when type + zone selected
   useEffect(() => {
     if (developmentType && zone) {
       const selectedRule = rulesData[developmentType]?.[zone] || rulesData[developmentType]?.["default"];
@@ -53,13 +53,13 @@ function ComplianceCheck() {
 
     // Check floor area
     const maxFloorArea = selectedRule.max_floor_area_m2;
-    if (maxFloorArea && floorArea > maxFloorArea) {
+    if (floorArea > maxFloorArea) {
       issues.push(`Floor area exceeds the maximum limit of ${maxFloorArea}m².`);
     }
 
     // Check height
     const maxHeight = selectedRule.dimensions.max_height_m;
-    if (maxHeight && height > maxHeight) {
+    if (height > maxHeight) {
       issues.push(`Height exceeds the maximum limit of ${maxHeight}m.`);
     }
 
