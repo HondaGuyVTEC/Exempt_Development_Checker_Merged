@@ -1,0 +1,30 @@
+{
+  "shed": {
+    "RU4": {
+      "max_floor_area_m2": 50,
+      "dimensions": {"max_length_m": null, "max_width_m": null, "max_height_m": 3},
+      "min_setback_m": null,
+      "location": "Behind building line",
+      "clause_refs": ["Clause 2.22"],
+      "clause_links": ["https://legislation.nsw.gov.au/view/html/inforce/current/epi-2008-0572#pt.2-div.1-sdiv.9"]
+    },
+    "default": {
+      "max_floor_area_m2": 20,
+      "dimensions": {"max_length_m": null, "max_width_m": null, "max_height_m": 3},
+      "min_setback_m": null,
+      "location": "Behind building line",
+      "clause_refs": ["Clause 2.22"],
+      "clause_links": ["https://legislation.nsw.gov.au/view/html/inforce/current/epi-2008-0572#pt.2-div.1-sdiv.9"]
+    }
+  },
+  "patio": {
+    "default": {
+      "max_floor_area_m2": 25,
+      "dimensions": {"max_length_m": null, "max_width_m": null, "max_height_m": 3},
+      "min_setback_m": null,
+      "location": "Behind building line",
+      "clause_refs": ["Clause 2.22"],
+      "clause_links": ["https://legislation.nsw.gov.au/view/html/inforce/current/epi-2008-0572#pt.2-div.1-sdiv.6"]
+    }
+  }
+}
