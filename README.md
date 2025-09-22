@@ -1,3 +1,7 @@
+# == EDIT FROM HONDAGUYVTEC ==
+This repository is a fork of the `Exempt_development_frontend` repository by `haseebah2003-blip`. I have merged my backend rule-checking logic with the frontend interface and can confirm that it is all working. I have also removed redundancies such as any server requests that were previously being made to an external backend rule checker algorithm, as this is no longer necessary.
+
+To run this, simply clone this (forked) repository in VS Code by typing the command `git clone https://github.com/HondaGuyVTEC/Exempt_Development_Checker_Merged.git`, then type `npm run dev`.
 # Exempt Development Frontend
 ![Banner](screencapture-localhost-5173-custom-search1-2025-09-11-15_43_30.png)  
 
