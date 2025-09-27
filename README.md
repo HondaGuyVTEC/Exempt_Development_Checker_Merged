@@ -18,15 +18,14 @@ Follow these steps to set up the project locally.
 - Node.js (>= 18)
 - npm or yarn
 
-## First setup backend to setup follow this process 
-[![Backend Repository](https://img.shields.io/badge/Backend-Repository-blue?logo=github)](https://github.com/haseebah2003-blip/Exempt_development_backend.git)
+
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/haseebah2003-blip/Exempt_development_frontend.git
+git clone https://github.com/HondaGuyVTEC/Exempt_Development_Checker_Merged.git
 
 # Navigate to project directory
-cd Exempt_development_frontend
+cd Exempt_Development_Checker_Merged
 
 # Install dependencies
 npm install
